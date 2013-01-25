@@ -1,0 +1,1 @@
+Maintains a list of parent and child tasks using an SQLite database and PHP.
